@@ -1,1 +1,4 @@
-# Lab2
+
+In this lab, I explored two key NLP themes: rule-based techniques with regular expressions (Regex) and word embedding methods. In the first part, I learned how to use Regex to extract information from text to generate a detailed bill with products, quantities, and prices. This exercise demonstrated how simple tools like Regex can transform unstructured text into usable data.
+
+In the second part, I worked with various word embedding techniques, including One Hot Encoding, Bag of Words, and TF-IDF, to convert text into numerical representations. I also explored more advanced methods like Word2Vec, GloVe, and FastText, which capture semantic relationships among words. Through this lab, I gained a deeper understanding of these techniques and their applications in processing and analyzing textual data.
